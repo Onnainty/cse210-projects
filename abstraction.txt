@@ -1,0 +1,12 @@
+By Damian Onnainty:
+
+Abstraction in programming is a style in which complex ideas are simplified 
+by focusing programming only on the essential aspects and leaving out unnecessary
+details. This approach is essential for creating scalable and maintainable systems 
+by effectively managing complexity, increasing productivity, and encouraging 
+reusable and understandable code. Furthermore, by allowing developers to focus 
+on problem solving rather than specific aspects of the implementation, abstraction 
+supports sophisticated software development. For example, in object-oriented programming, 
+classes abstract the inner workings of objects, exposing essential methods and properties. 
+Similarly, libraries and frameworks offer higher-level abstractions, simplifying tasks such as 
+database interactions and user interface management across software development projects.
